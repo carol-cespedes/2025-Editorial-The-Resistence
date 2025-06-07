@@ -22,7 +22,7 @@
 
 🔹Diseño de material de difusión (tarjetas, volantes, etc.).
 
-🔹Participación y firma de ejemplares en la Feria Internacional del Libro de 🔹Buenos Aires.
+🔹Participación y firma de ejemplares en la Feria Internacional del Libro de Buenos Aires.
 
 🔹Comunidad de autores AdA (Sorteos, talleres, charlas, presentaciones, etc.).
 

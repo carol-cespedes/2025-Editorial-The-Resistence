@@ -1,30 +1,35 @@
-# 2025-Editorial-The-Resistence
+# Descripción del proyecto
 
-➡ Nuestros servicios incluyen:
+Este proyecto es un sitio web de e-commerce desarrollado como entrega final del curso de Front-End JS. La página permite visualizar productos obtenidos de una API REST, gestionarlos desde un carrito de compras dinámico y realizar simulaciones de compra, todo dentro de un diseño responsive y accesible.
 
-🔹Trámites legales (Registro internacional de la obra).
+# Tecnologías utilizadas
 
-🔹Asistencia personalizada por profesionales.
+🔹HTML5: Estructura semántica con etiquetas como <header>, <nav>, <main>, <section>, <footer>.
 
-🔹Diseño de portada.
+🔹CSS3 / Bootstrap / Flexbox / Grid: Estilos responsivos, con integración de Google Fonts y propiedades visuales como backgrounds.
 
-🔹Diseño del interior del libro.
+🔹JavaScript: Manipulación del DOM, validación de formularios, renderizado dinámico de productos y gestión del carrito usando localStorage.
 
-🔹Muestra digital de galera (corrección).
+🔹API REST (Fetch): Obtención de productos desde una fuente externa.
 
-🔹Impresión de los ejemplares.
+🔹Formspree: Para gestionar el envío del formulario de contacto.
 
-🔹Impresión por demanda con alcance internacional y venta en Amazon.
+# Instrucciones de instalación
 
-🔹Venta y distribución en Mercadolibre (MercadoShops).
+🔹Clonar el repositorio: git clone https://github.com/usuario/nombre-del-repositorio.git
 
-🔹Difusión en plataformas digitales y redes sociales.
+🔹Navegar al proyecto: cd nombre-del-repositorio
 
-🔹Diseño de material de difusión (tarjetas, volantes, etc.).
+🔹Abrir index.html en un navegador o subirlo a un hosting como GitHub Pages o Netlify.
 
-🔹Participación y firma de ejemplares en la Feria Internacional del Libro de Buenos Aires.
+# Detalles relevantes
 
-🔹Comunidad de autores AdA (Sorteos, talleres, charlas, presentaciones, etc.).
+🔹La estructura incluye navegación interna simulada.
 
-🔹 Corrección del manuscrito.
+🔹El formulario de contacto es funcional mediante Formspree.
 
+🔹El carrito persiste usando localStorage, y su contenido puede editarse.
+
+🔹El diseño es completamente adaptable a distintos dispositivos.
+
+🔹Cumple con buenas prácticas de accesibilidad y SEO básico.
